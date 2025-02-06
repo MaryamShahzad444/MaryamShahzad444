@@ -1,0 +1,19 @@
+cost=15
+rate=0.25
+product=7000
+total=56.87
+quotient=46
+num=6
+
+cost+=5 
+print(cost)
+sum*=rate 
+print(rate)
+product/=10
+print(product)
+cost//=num 
+print(total)
+total -=cost
+print(quotient)
+quotient%=rate
+

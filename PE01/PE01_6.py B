@@ -1,0 +1,8 @@
+"""
+newYearSales= # not valid variable name because it contains a full stop
+room_color= # not valid becauseit includes the special character &
+torf_1040= # not valid because first letter cannt be capital 
+_311HotLine= # not valid becase it was starting with a number
+expense= # not valid because it is ending with a special character "#"
+income101= # not valid because it comtained spaces and first letter was capitalize
+"""
