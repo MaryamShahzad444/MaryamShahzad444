@@ -1,0 +1,11 @@
+"""result1=int(-a/b)
+result2=round(a/b,2)
+result3=abs(b-a)"""
+a=5
+b=3
+#result1, result2, result3=calculate_expressions(a,b)
+print("int(-a/b = ", int(-a/b))
+
+print("round(a/b,2", round(a/b,2))
+
+print(f"abs(b-a)=(result3)")
