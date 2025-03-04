@@ -23,6 +23,6 @@ n[-1]=9.9 #(o)
 newNum=n.copy()
 print(newNum)
 n.clear() #(p) clear list
-print(n) #(r) Print the original list, n and the newNum list
-print(newNum) #(r)
+print("Original List:" , n) #(r) Print the original list, n and the newNum list
+print("New List:", newNum)
 del n #(s) Delete the list n
